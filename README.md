@@ -9,6 +9,8 @@ This repository contains my Java practice codes.
 | File Name        | Description |
 |------------------|-------------|
 | **Main.java** | A simple Hello World program that prints "Hello JAVA" to the console. | 
+| **Main_1.java** | This program displays product information. It prints the ID, title, price, description, and category sequentially as output. | 
+
 
 
 
