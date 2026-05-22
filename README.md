@@ -16,8 +16,8 @@ This repository contains my Java practice codes.
 | **Variable.java** | This program declares two integer variables (a and b) with values 10 and 20, calculates their sum, and stores it in a sum variable. It then prints the result as "The number is 30. | 
 | **Variables_1.java** | This program demonstrates the use of multiple data types (String, int, float, char). It declares variables for student details (name, ID, age, fee, and grade), assigns example values, and prints each detail to the console. | 
 | **Variables_2.java** | This program calculates the area of a rectangle by multiplying the given length (4) and width (6). It then prints the length, width, and the calculated area of the rectangle to the console. |
-
-
+| **Data_type.java** | This program shows all 8 basic data types in Java (byte, short, int, long, float, double, char, boolean) by creating variables and printing their values. |
+| **DataTypesComplete.java** | This program covers both basic and non‑basic data types (String, arrays) plus Java's var keyword. It also includes a small shopping cart example to show how different data types work together in real code. |
 
 
 
