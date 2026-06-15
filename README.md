@@ -98,14 +98,10 @@ This collection of Java programs is designed to help beginners practice core con
 
 ---
 
-## 🚀 Getting Started
 
 ### Prerequisites
 - **Java Development Kit (JDK)** – version 8 or later.  
   Download it from [Oracle’s official website](https://www.oracle.com/java/technologies/javase-downloads.html) or use a package manager like `apt` (Linux) or `brew` (macOS).
 - A **text editor** or **IDE** (IntelliJ IDEA, Eclipse, VS Code, etc.).
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Mahin01234/JAVA-Practice.git
+
